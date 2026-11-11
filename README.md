@@ -1,0 +1,1 @@
+﻿README: Instagram投稿用の一時画像置き場
